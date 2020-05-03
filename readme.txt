@@ -1,3 +1,5 @@
+# 可用于测试Android注入so 并且 熟悉ptrace注入so的基本过程
+
 # 使用方法：
  0.ndk 编译
  1.adb push inject /data/local/tmp 
